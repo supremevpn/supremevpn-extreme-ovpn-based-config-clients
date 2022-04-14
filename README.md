@@ -1,2 +1,2 @@
 # supremevpn-extreme-ovpn-based-config-clients
-Configs configs
+Configs configs for configs
